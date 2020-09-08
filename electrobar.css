@@ -1,0 +1,18 @@
+.headerbackground
+{
+    background: yellow;
+    padding: 60px;
+    font-size: 50px;  
+}
+
+.headerwelcome
+{
+    font-size: large;
+    margin-left: 6px;
+    text-align: center;
+}
+
+img
+{
+    width: 100%;
+}
